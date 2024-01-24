@@ -1,1 +1,1 @@
-Currently this repo holds a python calculator that is user controlled and a c++ project that calculates areas and sides of multiple shapes.
+Currently this repo holds a python calculator that is user controlled and a c++ project that calculates area and perimeter of a rectangle.
